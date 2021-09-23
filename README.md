@@ -1,16 +1,11 @@
-# onboarding_screens2
+# Flutter_Onboarding_Screen
 
-A new Flutter application.
+Onboarding Screen Design - Flutter UI
 
-## Getting Started
+In this repository I will be showing you how to create Onboarding screen for Flutter App in Android Studio from scratch without using any library.
 
-This project is a starting point for a Flutter application.
+Do ⭐ the repo it really motivates me to share more open source
 
-A few resources to get you started if this is your first Flutter project:
+## [Watch it on YouTube](  )
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
